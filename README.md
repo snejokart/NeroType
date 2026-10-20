@@ -11,6 +11,7 @@ cd HeroType
 node scripts/hero.mjs setup
 node scripts/hero.mjs start
 ```
+Сайт доступен по ссылке **https://nerotype.kaevanika.workers.dev/**. (ТРЕБУЕТСЯ VPN)
 
 Открыть **http://127.0.0.1:5173**. В Windows можно запустить `START.cmd`: при необходимости он установит зависимости, соберёт приложение, создаст базу и запустит сервер. Первую подготовку не прерывать. Остановить сервер: `Ctrl+C` в его терминале.
 
