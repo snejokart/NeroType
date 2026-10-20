@@ -77,3 +77,12 @@ SQLite и локальные данные находятся в `.wrangler/state
 ## Оформление
 
 Темы: светлая и тёмная, переключатель с солнцем и луной находится в шапке. По умолчанию включена тёмная тема. Выбор сохраняется локально в браузере и применяется до первого отображения страницы.
+
+<img width="1907" height="912" alt="{A44A7E70-EEF6-4D13-A2C7-926D0CE7BDDD}" src="https://github.com/user-attachments/assets/b0baaf54-6f31-4bce-83e8-396470c77eb0" />
+<img width="1906" height="893" alt="{E791D130-0A8D-46A7-8E3B-E0D274955F3F}" src="https://github.com/user-attachments/assets/47d11f2e-215b-412d-be9e-7499f16821ae" />
+<img width="1903" height="898" alt="image" src="https://github.com/user-attachments/assets/eb4cba66-addb-4054-bd5f-fc64339a09c1" />
+<img width="1911" height="842" alt="{4962A558-814F-4A13-AE74-D5BD446661EE}" src="https://github.com/user-attachments/assets/8bcdc5d6-1bae-45ac-9b8e-e43958ba157b" />
+<img width="1897" height="902" alt="{1DD5339C-9902-4116-865A-98F20527AD9E}" src="https://github.com/user-attachments/assets/eb461106-bec3-4d67-87ef-e37de281e88d" />
+
+
+
